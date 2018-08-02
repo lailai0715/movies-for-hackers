@@ -20,7 +20,7 @@
 
 - **Title**: <!-- Replace with movie's title -->
 - **Link**: <!-- Replace with IMDb link -->
-- **Genre**: <!-- Replace with genre -->
+- **Genre**: <!-- Replace with genre -->dfdfdf
 - **Rating**: <!-- Replace with IMDb rating -->
 
 <!-- It would also be great if you could add a brief description of the movie! Thanks again! 🙌 ❤ --><br/ >
